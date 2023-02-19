@@ -1,0 +1,54 @@
+a{
+    text-align: center;
+    color:brown;
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+list-style-type:lower-greek;
+background-color:brown;
+}
+p{
+    text-align: center;
+    text-decoration: wavy;
+}
+#table {
+    width: 52%;
+    text-align: center;
+    background-color: blueviolet;
+    color:antiquewhite;
+   
+    
+}
+#brown2{
+    width: 500px;
+    height: 400px;
+}
+#brown{
+    height:450px; 
+    width: 764px;
+}
+#wh3{
+    height:auto;
+    width: auto;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px;
+    color: blueviolet
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+form{
+    background-color: chartreuse;
+    color: blue
+}
+.contain{
+    display: flex;
+    justify-content: center;
+}
